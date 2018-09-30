@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "pnp-webpack-plugin": "1.1.0",
+    "test": "link:sources",
+    "ts-loader": "^5.2.1",
+    "typescript": "^3.1.1",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  }
+}
